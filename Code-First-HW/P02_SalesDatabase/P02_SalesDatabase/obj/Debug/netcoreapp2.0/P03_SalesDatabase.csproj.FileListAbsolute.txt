@@ -1,0 +1,9 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P02_SalesDatabase\P02_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.deps.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P02_SalesDatabase\P02_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P02_SalesDatabase\P02_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P02_SalesDatabase\P02_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P02_SalesDatabase\P02_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P02_SalesDatabase\P02_SalesDatabase\bin\Debug\netcoreapp2.0\P03_SalesDatabase.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P02_SalesDatabase\P02_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P02_SalesDatabase\P02_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P02_SalesDatabase\P02_SalesDatabase\obj\Debug\netcoreapp2.0\P03_SalesDatabase.csprojResolveAssemblyReference.cache
