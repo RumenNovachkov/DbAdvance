@@ -1,0 +1,15 @@
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.deps.json
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.runtimeconfig.json
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.runtimeconfig.dev.json
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.dll
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Client.pdb
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Data.dll
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Data.pdb
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.csprojResolveAssemblyReference.cache
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.csproj.CoreCompileInputs.cache
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.AssemblyInfoInputs.cache
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.AssemblyInfo.cs
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.dll
+D:\GitHubRepositories\DbAdvance\DbAdvance\PhotoShare\PhotoShare.Client\obj\Debug\netcoreapp2.0\PhotoShare.Client.pdb
