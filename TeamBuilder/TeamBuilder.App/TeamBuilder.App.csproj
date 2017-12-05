@@ -9,4 +9,8 @@
     <ProjectReference Include="..\TeamBuilder.Data\TeamBuilder.Data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Core\Commands\" />
+  </ItemGroup>
+
 </Project>

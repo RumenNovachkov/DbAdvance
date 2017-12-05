@@ -1,12 +1,25 @@
-﻿using System;
-
-namespace TeamBuilder.App
+﻿namespace TeamBuilder.App
 {
+    using Core;
+    using Data;
+
     public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            //ResetDatabase();
+            LogInCommandDispatcher logInCommandDispatcher = new LogInCommandDispatcher();
+            LogInEngine logInEngine = new LogInEngine(logInCommandDispatcher);
+            logInEngine.Run();
+        }
+
+        private static void ResetDatabase()
+        {
+            using (var db = new TeamBuilderContext())
+            {
+                db.Database.EnsureDeleted();
+                db.Database.EnsureCreated();
+            }
         }
     }
 }
