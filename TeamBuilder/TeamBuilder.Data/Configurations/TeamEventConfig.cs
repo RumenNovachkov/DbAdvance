@@ -9,6 +9,8 @@
     {
         public void Configure(EntityTypeBuilder<TeamEvent> builder)
         {
+            builder.HasKey(e => new { e.EventId, e.TeamId });
+
             builder.HasOne(e => e.Team)
             .WithMany(e => e.Events)
             .HasForeignKey(e => e.EventId);
