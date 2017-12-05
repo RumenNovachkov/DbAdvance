@@ -9,9 +9,13 @@
     {
         public void Configure(EntityTypeBuilder<TeamEvent> builder)
         {
-            builder.HasOne(e => e.Team).WithMany(e => e.Events).HasForeignKey(e => e.EventId);
+            builder.HasOne(e => e.Team)
+            .WithMany(e => e.Events)
+            .HasForeignKey(e => e.EventId);
 
-            builder.HasOne(e => e.Event).WithMany(e => e.Teams).HasForeignKey(e => e.TeamId);
+            builder.HasOne(e => e.Event)
+            .WithMany(e => e.Teams)
+            .HasForeignKey(e => e.TeamId);
         }
     }
 }
