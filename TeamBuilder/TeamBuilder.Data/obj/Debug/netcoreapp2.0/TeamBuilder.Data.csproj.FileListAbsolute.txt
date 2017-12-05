@@ -1,0 +1,5 @@
+D:\GitHubRepositories\DbAdvance\DbAdvance\TeamBuilder\TeamBuilder.Data\bin\Debug\netcoreapp2.0\TeamBuilder.Models.dll
+D:\GitHubRepositories\DbAdvance\DbAdvance\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.csprojResolveAssemblyReference.cache
+D:\GitHubRepositories\DbAdvance\DbAdvance\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.csproj.CoreCompileInputs.cache
+D:\GitHubRepositories\DbAdvance\DbAdvance\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.AssemblyInfoInputs.cache
+D:\GitHubRepositories\DbAdvance\DbAdvance\TeamBuilder\TeamBuilder.Data\obj\Debug\netcoreapp2.0\TeamBuilder.Data.AssemblyInfo.cs
