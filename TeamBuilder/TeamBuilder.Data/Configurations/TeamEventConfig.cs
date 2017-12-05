@@ -9,7 +9,9 @@
     {
         public void Configure(EntityTypeBuilder<TeamEvent> builder)
         {
-            throw new NotImplementedException();
+            builder.HasOne(e => e.Team).WithMany(e => e.Events).HasForeignKey(e => e.EventId);
+
+            builder.HasOne(e => e.Event).WithMany(e => e.Teams).HasForeignKey(e => e.TeamId);
         }
     }
 }
