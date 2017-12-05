@@ -2,6 +2,7 @@
 {
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
+    using TeamBuilder.Models.Validatin;
 
     public class User
     {
@@ -14,7 +15,7 @@
 
         public string LastName { get; set; }
 
-        [MinLength(6)]
+        [Password(6, 30, ContainsDigit = true, ContainsLowercase = true, ErrorMessage = "Invalid password")]
         public string Password { get; set; }
 
         public Gender Gender { get; set; }

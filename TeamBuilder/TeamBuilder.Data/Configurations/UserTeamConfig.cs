@@ -9,7 +9,15 @@
     {
         public void Configure(EntityTypeBuilder<UserTeam> builder)
         {
-            throw new NotImplementedException();
+            builder.HasKey(e => new { e.TeamId, e.UserId });
+
+            builder.HasOne(e => e.User)
+                .WithMany(u => u.Teams)
+                .HasForeignKey(e => e.UserId);
+
+            builder.HasOne(e => e.Team)
+                .WithMany(t => t.Users)
+                .HasForeignKey(e => e.TeamId);
         }
     }
 }
