@@ -10,8 +10,14 @@
 		public void Configure(EntityTypeBuilder<Invitation> builder)
 		{
 			builder.HasKey(e => e.Id);
-			builder.HasOne(e => e.InvitedUser).WithOne(e => e.Invitation).HasForeignKey<Invitation>(e => e.InvitedUserId);
-			builder.HasOne(e => e.Team).WithOne(e => e.Invitation).HasForeignKey<Invitation>(e => e.TeamId);
+			
+			builder.HasOne(e => e.InvitedUser)
+			.WithOne(e => e.Invitation)
+			.HasForeignKey<Invitation>(e => e.InvitedUserId);
+			
+			builder.HasOne(e => e.Team)
+			.WithOne(e => e.Invitation)
+			.HasForeignKey<Invitation>(e => e.TeamId);
 		}
 	}
 }
