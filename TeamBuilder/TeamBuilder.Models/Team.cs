@@ -14,5 +14,6 @@
 
         public ICollection<UserTeam> Users { get; set; } = new List<UserTeam>();
         public ICollection<TeamEvent> Events { get; set; } = new List<TeamEvent>();
-    }
+		public Invitation Invitation { get; set; }
+	}
 }

@@ -2,7 +2,6 @@
 {
     using System.Collections.Generic;
     using System.ComponentModel.DataAnnotations;
-    using TeamBuilder.Models.Validatin;
 
     public class User
     {
@@ -15,7 +14,7 @@
 
         public string LastName { get; set; }
 
-        [Password(6, 30, ContainsDigit = true, ContainsLowercase = true, ErrorMessage = "Invalid password")]
+        [MinLength(6)]
         public string Password { get; set; }
 
         public Gender Gender { get; set; }
@@ -23,7 +22,10 @@
         public int Age { get; set; }
 
         public bool IsDeleted { get; set; }
+		//
 
         public ICollection<UserTeam> Teams { get; set; } = new List<UserTeam>();
-    }
+		public ICollection<Event>Events { get; set; } = new List<Event>();
+		public Invitation Invitation { get; set; }
+	}
 }
