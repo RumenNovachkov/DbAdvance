@@ -1,0 +1,13 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.DataProcessor\bin\Debug\netstandard2.0\InstagraphMe.DataProcessor.deps.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.DataProcessor\bin\Debug\netstandard2.0\InstagraphMe.DataProcessor.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.DataProcessor\obj\Debug\netstandard2.0\InstagraphMe.DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.DataProcessor\obj\Debug\netstandard2.0\InstagraphMe.DataProcessor.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.DataProcessor\obj\Debug\netstandard2.0\InstagraphMe.DataProcessor.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.DataProcessor\obj\Debug\netstandard2.0\InstagraphMe.DataProcessor.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.DataProcessor\bin\Debug\netstandard2.0\InstagraphMe.DataProcessor.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.DataProcessor\bin\Debug\netstandard2.0\InstagraphMe.Data.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.DataProcessor\bin\Debug\netstandard2.0\InstagraphMe.Models.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.DataProcessor\bin\Debug\netstandard2.0\InstagraphMe.Data.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.DataProcessor\bin\Debug\netstandard2.0\InstagraphMe.Models.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.DataProcessor\obj\Debug\netstandard2.0\InstagraphMe.DataProcessor.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.DataProcessor\obj\Debug\netstandard2.0\InstagraphMe.DataProcessor.pdb

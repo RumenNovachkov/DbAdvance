@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\InstagraphMe.DataProcessor\InstagraphMe.DataProcessor.csproj" />
+    <ProjectReference Include="..\InstagraphMe.Data\InstagraphMe.Data.csproj" />
+  </ItemGroup>
+
+</Project>

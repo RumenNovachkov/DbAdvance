@@ -1,0 +1,17 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\bin\Debug\netcoreapp2.0\InstagraphMe.App.deps.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\bin\Debug\netcoreapp2.0\InstagraphMe.App.runtimeconfig.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\bin\Debug\netcoreapp2.0\InstagraphMe.App.runtimeconfig.dev.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\bin\Debug\netcoreapp2.0\InstagraphMe.App.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\obj\Debug\netcoreapp2.0\InstagraphMe.App.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\obj\Debug\netcoreapp2.0\InstagraphMe.App.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\obj\Debug\netcoreapp2.0\InstagraphMe.App.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\obj\Debug\netcoreapp2.0\InstagraphMe.App.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\bin\Debug\netcoreapp2.0\InstagraphMe.App.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\bin\Debug\netcoreapp2.0\InstagraphMe.Data.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\bin\Debug\netcoreapp2.0\InstagraphMe.Models.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\bin\Debug\netcoreapp2.0\InstagraphMe.Data.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\bin\Debug\netcoreapp2.0\InstagraphMe.Models.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\obj\Debug\netcoreapp2.0\InstagraphMe.App.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\obj\Debug\netcoreapp2.0\InstagraphMe.App.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\bin\Debug\netcoreapp2.0\InstagraphMe.DataProcessor.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.App\bin\Debug\netcoreapp2.0\InstagraphMe.DataProcessor.pdb

@@ -1,0 +1,11 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.Models\bin\Debug\netstandard2.0\InstagraphMe.Models.deps.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.Models\bin\Debug\netstandard2.0\InstagraphMe.Models.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.Models\bin\Debug\netstandard2.0\InstagraphMe.Models.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.Models\obj\Debug\netstandard2.0\InstagraphMe.Models.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.Models\obj\Debug\netstandard2.0\InstagraphMe.Models.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.Models\obj\Debug\netstandard2.0\InstagraphMe.Models.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.Models\obj\Debug\netstandard2.0\InstagraphMe.Models.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.Models\obj\Debug\netstandard2.0\InstagraphMe.Models.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\InstagraphMe\InstagraphMe.Models\obj\Debug\netstandard2.0\InstagraphMe.Models.pdb
