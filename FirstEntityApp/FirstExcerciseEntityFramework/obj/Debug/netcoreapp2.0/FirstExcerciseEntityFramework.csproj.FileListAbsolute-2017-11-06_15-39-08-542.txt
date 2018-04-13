@@ -1,0 +1,11 @@
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstEntityApp\FirstExcerciseEntityFramework\bin\Debug\netcoreapp2.0\FirstExcerciseEntityFramework.deps.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstEntityApp\FirstExcerciseEntityFramework\bin\Debug\netcoreapp2.0\FirstExcerciseEntityFramework.runtimeconfig.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstEntityApp\FirstExcerciseEntityFramework\bin\Debug\netcoreapp2.0\FirstExcerciseEntityFramework.runtimeconfig.dev.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstEntityApp\FirstExcerciseEntityFramework\bin\Debug\netcoreapp2.0\FirstExcerciseEntityFramework.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstEntityApp\FirstExcerciseEntityFramework\obj\Debug\netcoreapp2.0\FirstExcerciseEntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstEntityApp\FirstExcerciseEntityFramework\obj\Debug\netcoreapp2.0\FirstExcerciseEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstEntityApp\FirstExcerciseEntityFramework\obj\Debug\netcoreapp2.0\FirstExcerciseEntityFramework.AssemblyInfoInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstEntityApp\FirstExcerciseEntityFramework\obj\Debug\netcoreapp2.0\FirstExcerciseEntityFramework.AssemblyInfo.cs
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstEntityApp\FirstExcerciseEntityFramework\bin\Debug\netcoreapp2.0\FirstExcerciseEntityFramework.pdb
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstEntityApp\FirstExcerciseEntityFramework\obj\Debug\netcoreapp2.0\FirstExcerciseEntityFramework.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstEntityApp\FirstExcerciseEntityFramework\obj\Debug\netcoreapp2.0\FirstExcerciseEntityFramework.pdb

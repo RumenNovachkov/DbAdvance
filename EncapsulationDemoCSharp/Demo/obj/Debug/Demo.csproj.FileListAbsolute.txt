@@ -1,0 +1,7 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\EncapsulationDemoCSharp\Demo\bin\Debug\Demo.exe.config
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\EncapsulationDemoCSharp\Demo\bin\Debug\Demo.exe
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\EncapsulationDemoCSharp\Demo\bin\Debug\Demo.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\EncapsulationDemoCSharp\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\EncapsulationDemoCSharp\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\EncapsulationDemoCSharp\Demo\obj\Debug\Demo.exe
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\EncapsulationDemoCSharp\Demo\obj\Debug\Demo.pdb

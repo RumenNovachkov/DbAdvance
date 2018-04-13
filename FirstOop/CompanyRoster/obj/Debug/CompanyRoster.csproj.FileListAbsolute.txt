@@ -1,0 +1,7 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\FirstOop\CompanyRoster\bin\Debug\CompanyRoster.exe.config
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\FirstOop\CompanyRoster\bin\Debug\CompanyRoster.exe
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\FirstOop\CompanyRoster\bin\Debug\CompanyRoster.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\FirstOop\CompanyRoster\obj\Debug\CompanyRoster.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\FirstOop\CompanyRoster\obj\Debug\CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\FirstOop\CompanyRoster\obj\Debug\CompanyRoster.exe
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\FirstOop\CompanyRoster\obj\Debug\CompanyRoster.pdb

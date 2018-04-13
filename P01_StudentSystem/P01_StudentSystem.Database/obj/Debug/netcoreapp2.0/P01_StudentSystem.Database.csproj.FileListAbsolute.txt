@@ -1,0 +1,9 @@
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P01_StudentSystem\P01_StudentSystem.Database\bin\Debug\netcoreapp2.0\P01_StudentSystem.Database.deps.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P01_StudentSystem\P01_StudentSystem.Database\bin\Debug\netcoreapp2.0\P01_StudentSystem.Database.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P01_StudentSystem\P01_StudentSystem.Database\obj\Debug\netcoreapp2.0\P01_StudentSystem.Database.csprojResolveAssemblyReference.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P01_StudentSystem\P01_StudentSystem.Database\obj\Debug\netcoreapp2.0\P01_StudentSystem.Database.csproj.CoreCompileInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P01_StudentSystem\P01_StudentSystem.Database\obj\Debug\netcoreapp2.0\P01_StudentSystem.Database.AssemblyInfoInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P01_StudentSystem\P01_StudentSystem.Database\obj\Debug\netcoreapp2.0\P01_StudentSystem.Database.AssemblyInfo.cs
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P01_StudentSystem\P01_StudentSystem.Database\bin\Debug\netcoreapp2.0\P01_StudentSystem.Database.pdb
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P01_StudentSystem\P01_StudentSystem.Database\obj\Debug\netcoreapp2.0\P01_StudentSystem.Database.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P01_StudentSystem\P01_StudentSystem.Database\obj\Debug\netcoreapp2.0\P01_StudentSystem.Database.pdb

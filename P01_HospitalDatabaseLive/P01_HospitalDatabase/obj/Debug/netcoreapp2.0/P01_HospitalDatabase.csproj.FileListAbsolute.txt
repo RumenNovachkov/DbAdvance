@@ -1,0 +1,9 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_HospitalDatabaseLive\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.deps.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_HospitalDatabaseLive\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_HospitalDatabaseLive\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_HospitalDatabaseLive\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_HospitalDatabaseLive\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_HospitalDatabaseLive\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_HospitalDatabaseLive\P01_HospitalDatabase\bin\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_HospitalDatabaseLive\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_HospitalDatabaseLive\P01_HospitalDatabase\obj\Debug\netcoreapp2.0\P01_HospitalDatabase.pdb

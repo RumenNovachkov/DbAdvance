@@ -1,0 +1,22 @@
+[
+{
+	"Name": "Window",
+	"Description": "Lets the air and light in",
+	"ManufacturerId": 1
+},
+{
+	"Name": "Door",
+	"Description": "Lets the air, light and people in",
+	"ManufacturerId": 2
+},
+{
+	"Name": "Lock",
+	"Description": "Don't let people in",
+	"ManufacturerId": 3
+},
+{
+	"Name": "Cat",
+	"Description": "Do nothing",
+	"ManufacturerId": 4
+}
+]

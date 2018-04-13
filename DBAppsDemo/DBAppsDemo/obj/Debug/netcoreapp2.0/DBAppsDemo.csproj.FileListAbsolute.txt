@@ -1,0 +1,11 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DBAppsDemo\DBAppsDemo\bin\Debug\netcoreapp2.0\DBAppsDemo.deps.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DBAppsDemo\DBAppsDemo\bin\Debug\netcoreapp2.0\DBAppsDemo.runtimeconfig.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DBAppsDemo\DBAppsDemo\bin\Debug\netcoreapp2.0\DBAppsDemo.runtimeconfig.dev.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DBAppsDemo\DBAppsDemo\bin\Debug\netcoreapp2.0\DBAppsDemo.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DBAppsDemo\DBAppsDemo\obj\Debug\netcoreapp2.0\DBAppsDemo.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DBAppsDemo\DBAppsDemo\obj\Debug\netcoreapp2.0\DBAppsDemo.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DBAppsDemo\DBAppsDemo\obj\Debug\netcoreapp2.0\DBAppsDemo.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DBAppsDemo\DBAppsDemo\obj\Debug\netcoreapp2.0\DBAppsDemo.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DBAppsDemo\DBAppsDemo\bin\Debug\netcoreapp2.0\DBAppsDemo.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DBAppsDemo\DBAppsDemo\obj\Debug\netcoreapp2.0\DBAppsDemo.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DBAppsDemo\DBAppsDemo\obj\Debug\netcoreapp2.0\DBAppsDemo.pdb

@@ -1,0 +1,11 @@
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\AllInOffice\AllInOffice.Data\bin\Debug\netcoreapp2.0\AllInOffice.Data.Models.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\AllInOffice\AllInOffice.Data\obj\Debug\netcoreapp2.0\AllInOffice.Data.csprojResolveAssemblyReference.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\AllInOffice\AllInOffice.Data\obj\Debug\netcoreapp2.0\AllInOffice.Data.csproj.CoreCompileInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\AllInOffice\AllInOffice.Data\obj\Debug\netcoreapp2.0\AllInOffice.Data.AssemblyInfoInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\AllInOffice\AllInOffice.Data\obj\Debug\netcoreapp2.0\AllInOffice.Data.AssemblyInfo.cs
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\AllInOffice\AllInOffice.Data\bin\Debug\netcoreapp2.0\AllInOffice.Data.deps.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\AllInOffice\AllInOffice.Data\bin\Debug\netcoreapp2.0\AllInOffice.Data.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\AllInOffice\AllInOffice.Data\bin\Debug\netcoreapp2.0\AllInOffice.Data.pdb
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\AllInOffice\AllInOffice.Data\bin\Debug\netcoreapp2.0\AllInOffice.Data.Models.pdb
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\AllInOffice\AllInOffice.Data\obj\Debug\netcoreapp2.0\AllInOffice.Data.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\AllInOffice\AllInOffice.Data\obj\Debug\netcoreapp2.0\AllInOffice.Data.pdb

@@ -1,0 +1,9 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Stations\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.deps.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Stations\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Stations\Stations.Models\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Stations\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Stations\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Stations\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Stations\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Stations\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Stations\Stations.Models\obj\Debug\netcoreapp2.0\Stations.Models.pdb

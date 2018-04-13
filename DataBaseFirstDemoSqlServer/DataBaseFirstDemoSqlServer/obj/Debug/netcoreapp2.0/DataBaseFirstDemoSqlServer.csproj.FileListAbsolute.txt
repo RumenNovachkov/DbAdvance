@@ -1,0 +1,11 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DataBaseFirstDemoSqlServer\DataBaseFirstDemoSqlServer\bin\Debug\netcoreapp2.0\DataBaseFirstDemoSqlServer.deps.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DataBaseFirstDemoSqlServer\DataBaseFirstDemoSqlServer\bin\Debug\netcoreapp2.0\DataBaseFirstDemoSqlServer.runtimeconfig.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DataBaseFirstDemoSqlServer\DataBaseFirstDemoSqlServer\bin\Debug\netcoreapp2.0\DataBaseFirstDemoSqlServer.runtimeconfig.dev.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DataBaseFirstDemoSqlServer\DataBaseFirstDemoSqlServer\bin\Debug\netcoreapp2.0\DataBaseFirstDemoSqlServer.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DataBaseFirstDemoSqlServer\DataBaseFirstDemoSqlServer\obj\Debug\netcoreapp2.0\DataBaseFirstDemoSqlServer.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DataBaseFirstDemoSqlServer\DataBaseFirstDemoSqlServer\obj\Debug\netcoreapp2.0\DataBaseFirstDemoSqlServer.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DataBaseFirstDemoSqlServer\DataBaseFirstDemoSqlServer\obj\Debug\netcoreapp2.0\DataBaseFirstDemoSqlServer.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DataBaseFirstDemoSqlServer\DataBaseFirstDemoSqlServer\obj\Debug\netcoreapp2.0\DataBaseFirstDemoSqlServer.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DataBaseFirstDemoSqlServer\DataBaseFirstDemoSqlServer\bin\Debug\netcoreapp2.0\DataBaseFirstDemoSqlServer.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DataBaseFirstDemoSqlServer\DataBaseFirstDemoSqlServer\obj\Debug\netcoreapp2.0\DataBaseFirstDemoSqlServer.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\DataBaseFirstDemoSqlServer\DataBaseFirstDemoSqlServer\obj\Debug\netcoreapp2.0\DataBaseFirstDemoSqlServer.pdb

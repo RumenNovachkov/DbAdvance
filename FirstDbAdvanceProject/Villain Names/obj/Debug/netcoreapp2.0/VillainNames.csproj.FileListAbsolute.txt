@@ -1,0 +1,8 @@
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\Villain Names\bin\Debug\netcoreapp2.0\VillainNames.deps.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\Villain Names\bin\Debug\netcoreapp2.0\VillainNames.runtimeconfig.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\Villain Names\bin\Debug\netcoreapp2.0\VillainNames.runtimeconfig.dev.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\Villain Names\bin\Debug\netcoreapp2.0\VillainNames.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\Villain Names\obj\Debug\netcoreapp2.0\VillainNames.csprojResolveAssemblyReference.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\Villain Names\obj\Debug\netcoreapp2.0\VillainNames.csproj.CoreCompileInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\Villain Names\obj\Debug\netcoreapp2.0\VillainNames.AssemblyInfoInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\Villain Names\obj\Debug\netcoreapp2.0\VillainNames.AssemblyInfo.cs

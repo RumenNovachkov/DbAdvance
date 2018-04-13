@@ -1,0 +1,5 @@
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\HospitalApp\StartUp\bin\Debug\netcoreapp2.0\HospitalApp.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\HospitalApp\StartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.csprojResolveAssemblyReference.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\HospitalApp\StartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.csproj.CoreCompileInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\HospitalApp\StartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.AssemblyInfoInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\HospitalApp\StartUp\obj\Debug\netcoreapp2.0\HospitalStartUp.AssemblyInfo.cs

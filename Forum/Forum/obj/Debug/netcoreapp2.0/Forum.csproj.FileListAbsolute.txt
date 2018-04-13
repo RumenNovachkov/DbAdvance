@@ -1,0 +1,11 @@
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\Forum\Forum\bin\Debug\netcoreapp2.0\Forum.deps.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\Forum\Forum\bin\Debug\netcoreapp2.0\Forum.runtimeconfig.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\Forum\Forum\bin\Debug\netcoreapp2.0\Forum.runtimeconfig.dev.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\Forum\Forum\bin\Debug\netcoreapp2.0\Forum.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\Forum\Forum\obj\Debug\netcoreapp2.0\Forum.csprojResolveAssemblyReference.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\Forum\Forum\obj\Debug\netcoreapp2.0\Forum.csproj.CoreCompileInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\Forum\Forum\obj\Debug\netcoreapp2.0\Forum.AssemblyInfoInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\Forum\Forum\obj\Debug\netcoreapp2.0\Forum.AssemblyInfo.cs
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\Forum\Forum\bin\Debug\netcoreapp2.0\Forum.pdb
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\Forum\Forum\obj\Debug\netcoreapp2.0\Forum.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\Forum\Forum\obj\Debug\netcoreapp2.0\Forum.pdb

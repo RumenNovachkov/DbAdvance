@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalFormatProcessing", "ExternalFormatProcessing\ExternalFormatProcessing.csproj", "{701FA999-C7A3-442A-8B14-88407E3F0BD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{701FA999-C7A3-442A-8B14-88407E3F0BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701FA999-C7A3-442A-8B14-88407E3F0BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701FA999-C7A3-442A-8B14-88407E3F0BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701FA999-C7A3-442A-8B14-88407E3F0BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {736F03DC-6EC3-45CB-ABEA-75EC7B3C2E13}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.deps.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.runtimeconfig.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.runtimeconfig.dev.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.StartUp.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.StartUp.pdb

@@ -1,0 +1,13 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.deps.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Data.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Data.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.DataProcessor\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.DataProcessor\obj\Debug\netcoreapp2.0\Instagraph.DataProcessor.pdb

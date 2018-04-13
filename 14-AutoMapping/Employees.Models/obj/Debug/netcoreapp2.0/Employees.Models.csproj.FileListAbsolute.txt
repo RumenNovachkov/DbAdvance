@@ -1,0 +1,9 @@
+C:\Users\r.novachkov\Desktop\14-AutoMapping\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.deps.json
+C:\Users\r.novachkov\Desktop\14-AutoMapping\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\r.novachkov\Desktop\14-AutoMapping\Employees.Models\bin\Debug\netcoreapp2.0\Employees.Models.pdb
+C:\Users\r.novachkov\Desktop\14-AutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\14-AutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\14-AutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\14-AutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\14-AutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.dll
+C:\Users\r.novachkov\Desktop\14-AutoMapping\Employees.Models\obj\Debug\netcoreapp2.0\Employees.Models.pdb

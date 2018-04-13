@@ -1,0 +1,11 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\ExternalFormatProcessing\ExternalFormatProcessing\bin\Debug\netcoreapp2.0\ExternalFormatProcessing.deps.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\ExternalFormatProcessing\ExternalFormatProcessing\bin\Debug\netcoreapp2.0\ExternalFormatProcessing.runtimeconfig.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\ExternalFormatProcessing\ExternalFormatProcessing\bin\Debug\netcoreapp2.0\ExternalFormatProcessing.runtimeconfig.dev.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\ExternalFormatProcessing\ExternalFormatProcessing\bin\Debug\netcoreapp2.0\ExternalFormatProcessing.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\ExternalFormatProcessing\ExternalFormatProcessing\bin\Debug\netcoreapp2.0\ExternalFormatProcessing.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\ExternalFormatProcessing\ExternalFormatProcessing\obj\Debug\netcoreapp2.0\ExternalFormatProcessing.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\ExternalFormatProcessing\ExternalFormatProcessing\obj\Debug\netcoreapp2.0\ExternalFormatProcessing.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\ExternalFormatProcessing\ExternalFormatProcessing\obj\Debug\netcoreapp2.0\ExternalFormatProcessing.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\ExternalFormatProcessing\ExternalFormatProcessing\obj\Debug\netcoreapp2.0\ExternalFormatProcessing.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\ExternalFormatProcessing\ExternalFormatProcessing\obj\Debug\netcoreapp2.0\ExternalFormatProcessing.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\ExternalFormatProcessing\ExternalFormatProcessing\obj\Debug\netcoreapp2.0\ExternalFormatProcessing.pdb

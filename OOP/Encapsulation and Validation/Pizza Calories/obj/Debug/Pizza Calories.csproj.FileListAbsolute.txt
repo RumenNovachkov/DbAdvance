@@ -1,0 +1,7 @@
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\OOP\Encapsulation and Validation\Pizza Calories\bin\Debug\Pizza Calories.exe.config
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\OOP\Encapsulation and Validation\Pizza Calories\bin\Debug\Pizza Calories.exe
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\OOP\Encapsulation and Validation\Pizza Calories\bin\Debug\Pizza Calories.pdb
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\OOP\Encapsulation and Validation\Pizza Calories\obj\Debug\Pizza Calories.csprojResolveAssemblyReference.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\OOP\Encapsulation and Validation\Pizza Calories\obj\Debug\Pizza Calories.csproj.CoreCompileInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\OOP\Encapsulation and Validation\Pizza Calories\obj\Debug\Pizza Calories.exe
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\OOP\Encapsulation and Validation\Pizza Calories\obj\Debug\Pizza Calories.pdb

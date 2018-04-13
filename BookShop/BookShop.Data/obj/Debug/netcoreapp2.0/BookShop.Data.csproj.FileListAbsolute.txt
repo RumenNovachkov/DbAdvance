@@ -1,0 +1,11 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.deps.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.Data\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\BookShop\BookShop.Data\obj\Debug\netcoreapp2.0\BookShop.Data.pdb

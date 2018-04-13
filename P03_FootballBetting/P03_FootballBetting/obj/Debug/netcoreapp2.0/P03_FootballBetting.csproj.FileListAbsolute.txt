@@ -1,0 +1,15 @@
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.deps.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.runtimeconfig.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.runtimeconfig.dev.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.pdb
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.Data.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.Data.Models.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.Data.Models.pdb
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\bin\Debug\netcoreapp2.0\P03_FootballBetting.Data.pdb
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.csprojResolveAssemblyReference.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.csproj.CoreCompileInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.AssemblyInfoInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.AssemblyInfo.cs
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\P03_FootballBetting\P03_FootballBetting\obj\Debug\netcoreapp2.0\P03_FootballBetting.pdb

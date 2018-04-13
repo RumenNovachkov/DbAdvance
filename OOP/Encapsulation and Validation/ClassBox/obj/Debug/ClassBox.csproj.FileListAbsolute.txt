@@ -1,0 +1,7 @@
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\OOP\Encapsulation and Validation\ClassBox\obj\Debug\ClassBox.csprojResolveAssemblyReference.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\OOP\Encapsulation and Validation\ClassBox\obj\Debug\ClassBox.csproj.CoreCompileInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\OOP\Encapsulation and Validation\ClassBox\bin\Debug\ClassBox.exe.config
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\OOP\Encapsulation and Validation\ClassBox\bin\Debug\ClassBox.exe
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\OOP\Encapsulation and Validation\ClassBox\bin\Debug\ClassBox.pdb
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\OOP\Encapsulation and Validation\ClassBox\obj\Debug\ClassBox.exe
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\OOP\Encapsulation and Validation\ClassBox\obj\Debug\ClassBox.pdb

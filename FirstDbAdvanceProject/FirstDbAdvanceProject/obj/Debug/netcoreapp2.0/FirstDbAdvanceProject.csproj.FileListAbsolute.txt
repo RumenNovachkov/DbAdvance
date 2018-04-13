@@ -1,0 +1,11 @@
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\FirstDbAdvanceProject\bin\Debug\netcoreapp2.0\FirstDbAdvanceProject.deps.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\FirstDbAdvanceProject\bin\Debug\netcoreapp2.0\FirstDbAdvanceProject.runtimeconfig.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\FirstDbAdvanceProject\bin\Debug\netcoreapp2.0\FirstDbAdvanceProject.runtimeconfig.dev.json
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\FirstDbAdvanceProject\bin\Debug\netcoreapp2.0\FirstDbAdvanceProject.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\FirstDbAdvanceProject\obj\Debug\netcoreapp2.0\FirstDbAdvanceProject.csprojResolveAssemblyReference.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\FirstDbAdvanceProject\obj\Debug\netcoreapp2.0\FirstDbAdvanceProject.csproj.CoreCompileInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\FirstDbAdvanceProject\obj\Debug\netcoreapp2.0\FirstDbAdvanceProject.AssemblyInfoInputs.cache
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\FirstDbAdvanceProject\obj\Debug\netcoreapp2.0\FirstDbAdvanceProject.AssemblyInfo.cs
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\FirstDbAdvanceProject\bin\Debug\netcoreapp2.0\FirstDbAdvanceProject.pdb
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\FirstDbAdvanceProject\obj\Debug\netcoreapp2.0\FirstDbAdvanceProject.dll
+C:\Users\Rumen Novachkov\Desktop\DbAdvance\FirstDbAdvanceProject\FirstDbAdvanceProject\obj\Debug\netcoreapp2.0\FirstDbAdvanceProject.pdb

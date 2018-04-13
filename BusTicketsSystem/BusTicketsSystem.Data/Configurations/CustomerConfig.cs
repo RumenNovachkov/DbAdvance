@@ -16,7 +16,7 @@
                 .IsUnicode()
                 .HasMaxLength(20);
 
-            builder.Property(e => e.FirstName)
+            builder.Property(e => e.LastName)
                 .IsRequired()
                 .IsUnicode()
                 .HasMaxLength(20);

@@ -4,6 +4,6 @@
 
     public class ServerConfig
     {
-        public static string ConnectionString => "Server=.;Database=ProductsShop;Integrated Security=True";
+        public static string ConnectionString => "Server=RNOVACHKOVPC\\SQLEXPRESS;Database=ProductsShop;Integrated Security=True";
     }
 }

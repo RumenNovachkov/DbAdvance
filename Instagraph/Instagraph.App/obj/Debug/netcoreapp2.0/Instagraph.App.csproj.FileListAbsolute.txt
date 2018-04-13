@@ -1,0 +1,17 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.deps.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.runtimeconfig.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.runtimeconfig.dev.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.App.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Data.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Models.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.DataProcessor.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Data.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\bin\Debug\netcoreapp2.0\Instagraph.Models.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\Instagraph\Instagraph.App\obj\Debug\netcoreapp2.0\Instagraph.App.pdb

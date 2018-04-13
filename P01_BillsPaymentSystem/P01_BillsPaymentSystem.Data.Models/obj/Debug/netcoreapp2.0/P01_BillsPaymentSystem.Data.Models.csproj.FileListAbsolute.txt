@@ -1,0 +1,9 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_BillsPaymentSystem\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.deps.json
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_BillsPaymentSystem\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_BillsPaymentSystem\P01_BillsPaymentSystem.Data.Models\bin\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_BillsPaymentSystem\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_BillsPaymentSystem\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_BillsPaymentSystem\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.AssemblyInfoInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_BillsPaymentSystem\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.AssemblyInfo.cs
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_BillsPaymentSystem\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.dll
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\P01_BillsPaymentSystem\P01_BillsPaymentSystem.Data.Models\obj\Debug\netcoreapp2.0\P01_BillsPaymentSystem.Data.Models.pdb

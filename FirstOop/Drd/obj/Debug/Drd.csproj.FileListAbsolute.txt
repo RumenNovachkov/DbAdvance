@@ -1,0 +1,7 @@
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\FirstOop\Drd\bin\Debug\Drd.exe.config
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\FirstOop\Drd\bin\Debug\Drd.exe
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\FirstOop\Drd\bin\Debug\Drd.pdb
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\FirstOop\Drd\obj\Debug\Drd.csprojResolveAssemblyReference.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\FirstOop\Drd\obj\Debug\Drd.csproj.CoreCompileInputs.cache
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\FirstOop\Drd\obj\Debug\Drd.exe
+C:\Users\r.novachkov\Desktop\C#DbAdvanceOOP\FirstOop\Drd\obj\Debug\Drd.pdb
